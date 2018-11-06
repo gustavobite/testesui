@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottombar1"
+        android:icon="@android:drawable/ic_delete"
+        android:title="Teste 1"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/bottombar2"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Teste 2"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/bottombar3"
+        android:icon="@android:drawable/ic_media_ff"
+        android:title="Teste 3"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/bottombar4"
+        android:icon="@android:drawable/ic_media_next"
+        android:title="Teste 4"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/bottombar5"
+        android:icon="@android:drawable/ic_media_pause"
+        android:title="Teste 5"
+        app:showAsAction="ifRoom"/>
+
+</menu>
